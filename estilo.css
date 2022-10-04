@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: lightyellow;
+}
+#nav-bar {
+  position: absolute;
+  height: 100%;
+  width: 30%;
+  background-color: goldenrod;
+  text-align: center;
+}
+#container {
+  height: 100%;
+  width: 70%;
+  background-color: lightyellow;
+  padding: 50px;
+  margin-left: 30%;
+}
+#nav-bar img {
+  border-radius: 40vw;
+  width: 200px;
+  height: 200px;
+}
